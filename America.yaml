@@ -1,0 +1,11 @@
+---
+- name: America
+  hosts: tag_Name_Queue
+  user: ubuntu
+
+  tasks: 
+  
+  - name: Hello World Task?
+    shell: echo "AMERICA!!! FUCK YEAH!!!"
+
+  
